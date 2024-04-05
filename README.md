@@ -9,7 +9,7 @@ Hi there! 👋 I'm Prasanna Balaji G S, a software engineer from Boston, MA. I l
 
 ## What I Do:
 - 💻 Software Engineering: Crafting clean, efficient code and architecting robust software solutions.
-- 🌐 Web Development: Building dynamic web applications with cutting-edge technologies.
+- 🌐 Web Development: Building scalable responsive web applications with cutting-edge technologies.
 - 🚀 Continuous Learning: Always eager to expand my knowledge and embrace new technologies and methodologies.
 
 ## My Skills
