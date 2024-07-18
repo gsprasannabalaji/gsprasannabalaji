@@ -13,8 +13,8 @@ Hi there! 👋 I'm Prasanna Balaji G S, a software engineer from Boston, MA. I l
 - 🚀 Continuous Learning: Always eager to expand my knowledge and embrace new technologies and methodologies.
 
 ## My Skills
-- **Programming Languages:**  [Java, Javascript, Typescript]
 - **Web Technologies**  [React, Next.js, Express.js, Redux, Zustand, Tailwind CSS, Material UI, Bootstrap, Jest, HTML5, CSS3, Sass, Webpack]
+- **Programming Languages:**  [Java, Javascript, Typescript]
 - **Database**  [MySQL, MongoDB, PostgreSQL]
 - **Tools**  [AxeDevTools, Bitbucket, Browserstack, Chrome DevTools, Confluence, Figma, Git, Github, Jira, React & Redux DevTools, Postman, VS Code]
 
