@@ -35,9 +35,16 @@ For the past 5.5 years, I have been immersed in front-end web development, showc
   ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
   ![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazons3)
 
-- **Database**  
+- **Database**
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+- **API**
+  
+  ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai)
+  ![Stripe API](https://img.shields.io/badge/-Stripe%20API-008CDD?style=flat-square&logo=stripe)
+
   
 - **Tools**  
 
