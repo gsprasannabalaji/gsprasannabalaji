@@ -6,11 +6,57 @@ Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from Bo
 For the past 5.5 years, I have been immersed in front-end web development, showcasing strong skills in creating impactful user interfaces. In addition to my technical expertise, I've taken leadership responsibilities during my experience especially while working at Deloitte, guiding and inspiring my team to success.
 
 ## My Skills
-- **Web Technologies**  [React, Next.js, Express.js, Redux, Zustand, Tailwind CSS, Material UI, Bootstrap, Jest, HTML5, CSS3, Sass, Webpack]
-- **Programming Languages**  [Javascript, Typescript, Java]
-- **Cloud Orchestration** [Docker, Terraform]
-- **Database**  [MongoDB, PostgreSQL]
-- **Tools**  [AxeDevTools, Bitbucket, Browserstack, Chrome DevTools, Confluence, Figma, Git, Github, Jira, React & Redux DevTools, Postman, VS Code]
+- **Web Technologies**  
+
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+  ![Zustand](https://img.shields.io/badge/-Zustand-171717?style=flat-square&logo=zustand)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
+  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose)
+
+- **Programming Languages**  
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+  ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+
+- **Cloud Orchestration**
+
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
+  ![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazons3)
+
+- **Database**  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+  
+- **Tools**  
+
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops)
+  ![Axe DevTools](https://img.shields.io/badge/-Axe%20DevTools-393939?style=flat-square&logo=axe)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
+  ![Browserstack](https://img.shields.io/badge/-Browserstack-FF6C37?style=flat-square&logo=browserstack)
+  ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome)
+  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+  ![React DevTools](https://img.shields.io/badge/-React%20DevTools-61DAFB?style=flat-square&logo=react)
+  ![Redux DevTools](https://img.shields.io/badge/-Redux%20DevTools-764ABC?style=flat-square&logo=redux)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
+  ![WCAG](https://img.shields.io/badge/-WCAG-0091BD?style=flat-square&logo=accessibility)
+
 
 ## What I Love:
 - 🏏 Watching cricket and following the latest matches and tournaments.
