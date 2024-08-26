@@ -3,7 +3,7 @@
 ## About Me
 Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from Boston, MA. I love solving problems and making cool stuff with technology. Learning new things and working with others on fun projects is what keeps me going!
 
-For the past 5.5 years, I have been immersed in front-end web development, showcasing strong skills in creating impactful user interfaces. In addition to my technical expertise, I've taken leadership responsibilities during my experience especially while working at Deloitte, guiding and inspiring my team to success.
+I am having 6 years of experience in web technologies (frontend), showcasing strong skills in creating impactful user interfaces. In addition to my technical expertise, I've taken leadership responsibilities during my experience especially while working at Deloitte, guiding and inspiring my team to success.
 
 ## My Skills
 - **Web Technologies**  
