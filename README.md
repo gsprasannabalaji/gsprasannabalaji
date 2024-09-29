@@ -96,6 +96,8 @@ Feel free to check out my [portfolio](https://gsprasanna.netlify.app/) for more 
 ## Let's Collaborate!
 I'm always open to new opportunities and collaborations. If you have a project in mind or just want to say hi, feel free to reach out! 😊
 
+[![An image of @gsprasannabalaji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gsprasannabalaji)](https://holopin.io/@gsprasannabalaji)
+
 <!---
 gsprasannabalaji/gsprasannabalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
