@@ -73,7 +73,7 @@ I am having 6 years of experience in web technologies (frontend), showcasing str
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prasannags/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasannags/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://jslearn.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://jslearn.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://medium.com/@gsprasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gsprasanna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prasannags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prasannags" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prasannags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prasannags" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gs_prasannabalaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gs_prasannabalaji" height="30" width="40" /></a>
 </p>
 
@@ -87,7 +87,7 @@ I am having 6 years of experience in web technologies (frontend), showcasing str
 - 🌐 Web Development: Building scalable responsive web applications with cutting-edge technologies.
 - 🚀 Continuous Learning: Always eager to expand my knowledge and embrace new technologies and methodologies.
 
-Feel free to check out my [portfolio](https://gsprasanna.netlify.app/) for more projects!
+Feel free to check out my [portfolio](https://gsprasannabalaji.netlify.app/) for more projects!
 
 ## Get in Touch
 - LinkedIn: [Prasanna Balaji G S](https://www.linkedin.com/in/prasanna-balaji-gs/)
