@@ -1,4 +1,4 @@
-# Welcome to Prasanna Balaji G S GitHub Profile! 👋
+# Prasanna Balaji G S GitHub Profile! 👋
 
 ## About Me
 Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from Boston, MA. I love solving problems and making cool stuff with technology. Learning new things and working with others on fun projects is what keeps me going!
