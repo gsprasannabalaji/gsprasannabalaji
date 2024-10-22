@@ -77,15 +77,14 @@ I am having 6 years of experience in web development, showcasing strong skills i
 <a href="https://www.leetcode.com/gs_prasannabalaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gs_prasannabalaji" height="30" width="40" /></a>
 </p>
 
-
-## What I Love:
-- 🏏 Watching cricket and following the latest matches and tournaments.
-- ♟️ Playing chess, honing my strategic skills with every move.
-
 ## What I Do:
 - 💻 Software Engineering: Crafting clean, efficient code and architecting robust software solutions.
 - 🌐 Web Development: Building scalable responsive web applications with cutting-edge technologies.
 - 🚀 Continuous Learning: Always eager to expand my knowledge and embrace new technologies and methodologies.
+
+## What I Love:
+- 🏏 Watching cricket and following the latest matches and tournaments.
+- ♟️ Playing chess, honing my strategic skills with every move.
 
 Feel free to check out my [portfolio](https://gsprasannabalaji.netlify.app/) for more projects!
 
