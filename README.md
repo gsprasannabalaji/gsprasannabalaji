@@ -5,6 +5,24 @@ Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from Un
 
 I am having 6 years of experience in web development, showcasing strong skills in creating impactful user interfaces. In addition to my technical expertise, I've taken leadership responsibilities during my experience especially while working at Deloitte, guiding and inspiring my team to success.
 
+- ✅ Experienced Software Engineer🎖 | Nearly 6 years of experience in delivering impactful 
+ applications across diverse domains.
+- ✅ Specialized in cloud-based full-stack development with expertise in AI integration and writing SOLID, 
+ maintainable code
+- ✅ Extensive involvement in the complete software development life cycle from Requirement gathering to 
+ deployment.
+- ✅ Passionate about leveraging technology to create meaningful societal impact
+
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
+---------------------------
+- Programming Languages - Javascript, Typescript, Java, Python
+- Front-End - React, Redux, Next.js, React Native, SCSS, Tailwind, Material UI, Styled Components, Zustand, Bootstrap
+- Back-End - Express.js, Node, Django, Mongoose, Sequelize
+- Cloud Orchestration - Docker, Terraform, AWS (S3, EC2)
+- Skills and Tools - Object Oriented Programming, Data Structure and Algorithms, Agile Scrum
+- Database - MongoDB, PostgreSQL
+- Tools - AxeDevTools, Balsamiq, Moqups, Bitbucket, Browserstack, Chrome DevTools, Confluence, Figma, Git, Github, Jira, Postman, VS Code
+
 ## My Skills
 - **Web Technologies**  
 
