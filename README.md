@@ -1,7 +1,7 @@
 # Prasanna Balaji G S GitHub Profile! 👋
 
 ## About Me
-Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from Boston, MA. I love solving problems and making cool stuff with technology. Learning new things and working with others on fun projects is what keeps me going!
+Hi there! 👋 I'm Prasanna Balaji G S, an experienced software engineer from United States. I love solving problems and making cool stuff with technology. Learning new things and working with others on fun projects is what keeps me going!
 
 I am having 6 years of experience in web development, showcasing strong skills in creating impactful user interfaces. In addition to my technical expertise, I've taken leadership responsibilities during my experience especially while working at Deloitte, guiding and inspiring my team to success.
 
